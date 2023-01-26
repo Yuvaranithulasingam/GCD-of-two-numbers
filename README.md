@@ -37,8 +37,7 @@ RegisterNumber:  22009033
 
 ## Output:
 ![gcd of two number](gcd.png)
-
-![GCD](https://user-images.githubusercontent.com/121418522/212110018-4b67e3fb-d398-492b-ad10-8af9181dce76.png)
+![GCD](https://user-images.githubusercontent.com/121418522/214823671-82f639bc-441b-409b-91d8-23f762e6301f.png)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
